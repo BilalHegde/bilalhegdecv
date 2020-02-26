@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Bilal Hegde</title>
 <meta charset="UTF-8">
